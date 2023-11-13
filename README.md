@@ -4,7 +4,7 @@ Welcome to Change-BackGround-Color project! This is a beginner-friendly project 
 
 ## Project Overview
 
-The project consists of a single HTML page with 4 buttons. When you click the button, the background color of the webpage changes. It's a fun and interactive way to practice event handling in JavaScript and styling with CSS.
+The project consists of a single HTML page with 5 buttons. When you click the button, the background color of the webpage changes to the button's color. It's a fun and interactive way to practice event handling in JavaScript and styling with CSS.
 
 ## What I Learned
 
